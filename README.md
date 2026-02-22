@@ -1,0 +1,3 @@
+# Digital Espresso HTML Project
+Architectural Strategy:
+Kape Pa More's new website is structured using four separate HTML files (index.html, about.html, products.html, and branches.html) that are connected through internal navigation links using anchor tags. Each page contains the same navigation menu to allow consistent movement between website pages. The image files for the home and branches pages are saved in an "images" folder in order to keep the project organized, as well as to separate content from media assets. Relative file paths (e.g., images/exterior.webp) are used to properly reference images from each HTML page, overall keeping the project clean and easy to maintain.
